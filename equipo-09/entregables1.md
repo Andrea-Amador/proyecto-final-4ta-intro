@@ -1,9 +1,9 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Nombre del equipo: 
-- Nombre de todos miembros en su equipo:
-- ¿Qué problema global eligieron ustedes?
+- Número del equipo:09 
+- Nombre del equipo:Programadoras Feministas del Mar de Manzanas 
+- Nombre de todos miembros en su equipo: Amador Pérez Andrea, 
+- ¿Qué problema global eligieron ustedes? Violencia de género.
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - Describe las tareas que hará cada miembro de su grupo:
